@@ -710,6 +710,9 @@ section {
   background: #fff;
   border: 2px solid #34b7a7;
 }
+.aboutImg {
+    border-radius: 50%;
+}
 
 /*--------------------------------------------------------------
 # Services
