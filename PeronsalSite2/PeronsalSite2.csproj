@@ -152,9 +152,12 @@
     <Content Include="_archive\_archive\assets\css\style.css" />
     <Content Include="_archive\_archive\assets\img\about.jpg" />
     <Content Include="_archive\_archive\assets\img\apple-touch-icon.png" />
+    <Content Include="_archive\_archive\assets\img\ConnorLink.jpg" />
     <Content Include="_archive\_archive\assets\img\Dungeon.jpg" />
     <Content Include="_archive\_archive\assets\img\hero-bg.jpg" />
+    <Content Include="_archive\_archive\assets\img\JazmineLink.jpg" />
     <Content Include="_archive\_archive\assets\img\LegoBody.jpg" />
+    <Content Include="_archive\_archive\assets\img\MattLink.jpg" />
     <Content Include="_archive\_archive\assets\img\PersonalSiteBackground.jpg" />
     <Content Include="_archive\_archive\assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="_archive\_archive\assets\img\portfolio\portfolio-2.jpg" />
@@ -168,6 +171,8 @@
     <Content Include="_archive\_archive\assets\img\portfolio\portfolio-details-1.jpg" />
     <Content Include="_archive\_archive\assets\img\portfolio\portfolio-details-2.jpg" />
     <Content Include="_archive\_archive\assets\img\portfolio\portfolio-details-3.jpg" />
+    <Content Include="_archive\_archive\assets\img\RomeoLink.jpg" />
+    <Content Include="_archive\_archive\assets\img\SeanLink.jpg" />
     <Content Include="_archive\_archive\assets\img\testimonials\favicon-16x16.png" />
     <Content Include="_archive\_archive\assets\img\testimonials\testimonials-1.jpg" />
     <Content Include="_archive\_archive\assets\img\testimonials\testimonials-2.jpg" />
@@ -175,6 +180,7 @@
     <Content Include="_archive\_archive\assets\img\testimonials\testimonials-4.jpg" />
     <Content Include="_archive\_archive\assets\img\testimonials\testimonials-5.jpg" />
     <Content Include="_archive\_archive\assets\img\Untitled design.png" />
+    <Content Include="_archive\_archive\assets\img\ZakLink.jpg" />
     <Content Include="_archive\_archive\assets\js\main.js" />
     <Content Include="_archive\_archive\assets\vendor\aos\aos.css" />
     <Content Include="_archive\_archive\assets\vendor\aos\aos.js" />
