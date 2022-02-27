@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="about.html" />
     <Content Include="contact.html" />
+    <Content Include="portfolio-details.html" />
     <Content Include="portfolio.html" />
     <Content Include="links.html" />
     <Content Include="resume.html" />
@@ -99,6 +100,7 @@
     <Content Include="_archive\assets\img\testimonials\testimonials-4.jpg" />
     <Content Include="_archive\assets\img\testimonials\testimonials-5.jpg" />
     <Content Include="_archive\assets\js\main.js" />
+    <Content Include="_archive\assets\portfolio-details.html" />
     <Content Include="_archive\assets\vendor\aos\aos.css" />
     <Content Include="_archive\assets\vendor\aos\aos.js" />
     <Content Include="_archive\assets\vendor\bootstrap-icons\bootstrap-icons.css" />
@@ -150,7 +152,9 @@
     <Content Include="_archive\_archive\assets\css\style.css" />
     <Content Include="_archive\_archive\assets\img\about.jpg" />
     <Content Include="_archive\_archive\assets\img\apple-touch-icon.png" />
+    <Content Include="_archive\_archive\assets\img\Dungeon.jpg" />
     <Content Include="_archive\_archive\assets\img\hero-bg.jpg" />
+    <Content Include="_archive\_archive\assets\img\LegoBody.jpg" />
     <Content Include="_archive\_archive\assets\img\PersonalSiteBackground.jpg" />
     <Content Include="_archive\_archive\assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="_archive\_archive\assets\img\portfolio\portfolio-2.jpg" />
